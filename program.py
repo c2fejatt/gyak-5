@@ -6,3 +6,11 @@ if a + b <= c or a + c <= b or c + b <= a:
     print("Ez nem érvényes háromszög!")
 else:
     print("Ez nem érvényes háromszög!")
+
+egyikOldal = float(input("A téglalap egyik oldala: "))
+masikOldal = float(input("A téglalap másik oldala: "))
+
+print(f"Téglalap területe: {egyikOldal * masikOldal}")
+print(f"Téglalap kerülete: {2 * (egyikOldal + masikOldal)}")
+
+
