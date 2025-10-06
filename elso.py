@@ -7,3 +7,9 @@ if a + b <= c or a + c <= b or c + b <= a:
     print("Ez nem érvényes háromszög!")
 else:
     print("Ez érvényes háromszög!")
+
+
+    #suprise push
+
+
+    #fontos
