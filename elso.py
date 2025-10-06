@@ -9,7 +9,7 @@ else:
     print("Ez érvényes háromszög!")
 
 
-
+    #suprise push
 
 
     #fontos
